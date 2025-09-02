@@ -12842,8 +12842,3 @@ header.masthead .h1 {
 .portfolio-box {
   pointer-events: auto;
 }
-
-.portfolio-box-caption::before,
-.portfolio-box-caption::after {
-  content: none !important;
-}
