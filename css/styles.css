@@ -12841,5 +12841,10 @@ header.masthead .h1 {
 
 .portfolio-box {
   pointer-events: auto;
-  /* ensures links are clickable */
+}
+
+.project-name {
+  margin: 0;
+  padding: 0;
+  text-align: center;
 }
