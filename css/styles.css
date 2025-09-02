@@ -12843,10 +12843,7 @@ header.masthead .h1 {
   pointer-events: auto;
 }
 
-.portfolio-box-caption .divider,
-.project-name+.divider,
-.project-name {
-  border: none !important;
-  background: none !important;
-  height: auto !important;
+.portfolio-box-caption::before,
+.portfolio-box-caption::after {
+  content: none !important;
 }
