@@ -12843,8 +12843,6 @@ header.masthead .h1 {
   pointer-events: auto;
 }
 
-.project-name {
-  margin: 0;
-  padding: 0;
-  text-align: center;
+.portfolio-box-caption hr {
+  display: none;
 }
