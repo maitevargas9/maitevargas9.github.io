@@ -12867,10 +12867,3 @@ html {
 .copyright {
   background-color: #1a252f;
 }
-
-.masthead-avatar {
-  border-radius: 50%;
-  object-fit: cover;
-  width: 150px;
-  height: 150px;
-}
